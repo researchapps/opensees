@@ -9,5 +9,3 @@ From: sorcerer01/opensees
 
     mkdir /code
     mv /home/ubuntu/* /code
-    echo "" >> /environment
-    echo "export PATH=${PATH}:/home/ubuntu/bin" >> /environment
